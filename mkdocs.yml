@@ -1,9 +1,9 @@
-site_name: Moonshine Panel Wiki
-site_url: https://moonshine-panel.wiki/
-site_description: Test Wiki for Moonshine Panel
+site_name: Moonlight Panel Wiki
+site_url: https://moonslight-panel.wiki/
+site_description: Test Wiki for Moonlight Panel
 site_author: gOOvER
 
-repo_url: https://github.com/pteroeggsx/website
+repo_url: https://github.com/gameservertech/moonlight-wiki
 repo_name: Improve this page
 edit_uri: edit/main/docs/
 
